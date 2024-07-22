@@ -16,3 +16,6 @@ python3 main_moco.py \
 --mlp --moco-t 0.2 --aug-plus --cos \
   <Directory of training data>
 ```
+
+## Acknowledgements
+The code is developed based on ```https://github.com/facebookresearch/moco```, and we would like to acknowledge and thanks for their public implementation.
